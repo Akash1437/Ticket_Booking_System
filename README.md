@@ -21,7 +21,7 @@ https://github.com/Akash1437/Ticket_Booking_System/assets/107811139/8e3931e6-950
 
 ## Movie Ticket Booking usin HTML, CSS & JS
 
-# Project Breakdown
+ # Project Breakdown
 
 - Display UI with movie select, screen, seats, legend & seat info
 - User can select a movie/price
@@ -30,7 +30,7 @@ https://github.com/Akash1437/Ticket_Booking_System/assets/107811139/8e3931e6-950
 - Number of seats and price will update based on selected movie and no. of seats
 - Save seats, movie and price to local storage so that UI is still populated on refresh
 
-# Tech Stack
+ # Tech Stack
 
     HTML
     CSS
