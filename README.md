@@ -19,7 +19,7 @@ https://github.com/Akash1437/Ticket_Booking_System/assets/107811139/8e3931e6-950
  <b>  https://akash1437.github.io/Ticket_Booking_System/ </br>
     
 
-## Movie Ticket Booking usin HTML, CSS & JS
+ # Movie Ticket Booking usin HTML, CSS & JS
 
  # Project Breakdown
 
