@@ -30,13 +30,13 @@ https://github.com/Akash1437/Ticket_Booking_System/assets/107811139/8e3931e6-950
 - Number of seats and price will update based on selected movie and no. of seats
 - Save seats, movie and price to local storage so that UI is still populated on refresh
 
- ## Tech Stack
+  ## Tech Stack
 
     HTML
     CSS
     JS BASICS
 
-# New Learning
+  ## New Learning
 
     Local Storage in JAVASCRIPT
 
