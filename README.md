@@ -16,7 +16,7 @@ https://github.com/Akash1437/Ticket_Booking_System/assets/107811139/8e3931e6-950
 <img src="s2 mbs.jpg" alt="ss2" width="947" height="445">
 
 ## Livesite Link
- #link <b>  https://akash1437.github.io/Ticket_Booking_System/ </br>
+ <b>  https://akash1437.github.io/Ticket_Booking_System/ </br>
     
 
 ## Movie Ticket Booking usin HTML, CSS & JS
