@@ -29,7 +29,7 @@ https://github.com/Akash1437/Ticket_Booking_System/assets/107811139/8e3931e6-950
 - User can select/deselect multiple seats
 - User can't select occupied seats
 - Number of seats and price will update based on selected movie and no. of seats
-- Save seats, movie and price to local storage so that UI is still populated on refresh
+- Save seats, movie and price to local storage so that UI is still populated on refresh.
 
   ## Tech Stack
 
